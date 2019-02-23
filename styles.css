@@ -5,7 +5,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color:rgb(22, 21, 21);
   font-family: Arial;
 }
 
@@ -70,4 +70,11 @@ body {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.logo-img{
+  height: auto;
+  width: auto;
+  max-width: 200px;
+  max-height: 80px;
 }
